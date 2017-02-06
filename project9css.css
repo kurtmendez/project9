@@ -1,5 +1,31 @@
 .box1 {
+
+width: 400px;
+
+height: 80px
+
+background-color: yellow;
 }
+
+.div1 {
+
+width: 400px; 
+
+height: 80px;
+  
+background-color: green;
+} 
+
+.div2 {
+  
+width: 400px;
+  
+height: 80px;
+
+background-color:red;
+}
+
+
   
 .box2 {
 }
