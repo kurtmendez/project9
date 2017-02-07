@@ -37,11 +37,12 @@ background-color: yellow;
 
 margin: 100px 0px 0px 50x;
 
-border: 133px solid;
+margin: auto;
 
-border-left-color: blue;
-  
-border-right-color: red;
+border-right: 133px solid blue;
+    
+border-left: 133px solid red;
+
 }
 
 .box3 {
